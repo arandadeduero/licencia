@@ -33,7 +33,7 @@ Algunos repositorios parten de proyectos de terceros y **mantienen la licencia d
 | [easyappointments](https://github.com/arandadeduero/easyappointments) | GPL-3.0 | Adaptación de [Easy!Appointments](https://github.com/alextselegidis/easyappointments) |
 | [fiestas](https://github.com/arandadeduero/fiestas) | AGPL-3.0 (código) y CC BY-SA 4.0 (contenidos) | Adaptación del proyecto de [Aldea Pucela](https://github.com/aldeapucela/fiestas) |
 | [bienestaranimal](https://github.com/arandadeduero/bienestaranimal) | CC BY-SA 4.0 | Adaptación del proyecto de [Aldea Pucela](https://github.com/aldeapucela/peluditos) |
-| [wp-tema-arandadeduero](https://github.com/arandadeduero/wp-tema-arandadeduero) | GPL-2.0 o posterior | Un tema de WordPress es obra derivada de WordPress (GPL) y además parte de Underscores (GPL). El código EUPL del Ayuntamiento sí puede incorporarse al tema, porque la EUPL es compatible con la GPL |
+| [wp-tema-arandadeduero](https://github.com/arandadeduero/wp-tema-arandadeduero) | GPL-2.0 o posterior, y EUPL-1.2 para el código propio del Ayuntamiento (licencia dual) | Un tema de WordPress es obra derivada de WordPress (GPL) y además parte de Underscores (GPL), así que el tema completo tiene que ser GPL. El código escrito por el Ayuntamiento se ofrece también bajo EUPL-1.2 |
 
 Las librerías de terceros incluidas en cualquier repositorio, y los datos de OpenStreetMap (ODbL), conservan siempre su propia licencia.
 
